@@ -5,17 +5,24 @@
 body {
 	background: white;
 }
-.c-item{
+.c-item1{
 	height: 480px;
 }
-.c-img{
+.c-img1{
 	height: 100%;
 	object-fit: cover;
 }
-.c-item1{
-	height: 180px;
+.c-item2{
+	height: 480px;
 }
-.c-img1{
+.c-img2{
+	height: 100%;
+	object-fit: cover;
+}
+.c-item3{
+	height: 480px;
+}
+.c-img3{
 	height: 100%;
 	object-fit: cover;
 }
@@ -116,6 +123,27 @@ body {
     color: #003b49;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+	.c-item1{
+	height: 480px;
+}
+.c-img1{
+	height: 100%;
+	object-fit: cover;
+}
+.c-item2{
+	height: 480px;
+}
+.c-img2{
+	height: 100%;
+	object-fit: cover;
+}
+.c-item3{
+	height: 480px;
+}
+.c-img3{
+	height: 100%;
+	object-fit: cover;
+}
 	.carousel-caption {
 		bottom: 370px;
 	}
