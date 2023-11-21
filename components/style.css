@@ -97,7 +97,7 @@ body {
     font-family: "proxima-nova", sans-serif;
     font-size: 1.4rem;
     font-weight: 900;
-    color: #003b49;
+    color: #003b49;  
 }
 .body-paragraph h5{
     font-family: "proxima-nova", sans-serif;
@@ -144,7 +144,7 @@ body {
 }
 
 .nav-link:hover{
-    color: #e4480af2 !important;
+    color: orange !important;
 }
 
 .text-warning{
