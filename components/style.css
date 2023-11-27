@@ -36,6 +36,7 @@ body {
 	color: #003b49;
 }
 
+
 .c-color{
 	background-color: #336C6D;
 }
@@ -94,7 +95,7 @@ body {
 	font-size: 20px;
 }
 .body-paragraph{
-    font-size: 20px;
+	font-size: 20px;
     /* font-weight: 500; */
     text-align: start;
     margin: 8% 3% 0% 3%;
@@ -110,7 +111,7 @@ body {
 	margin-top: -60px;
 }
 .body-paragraph h5{
-    font-family: "proxima-nova", sans-serif;
+	font-family: "proxima-nova", sans-serif;
     font-weight: 900;
     color: #003b49;
     
@@ -125,7 +126,36 @@ body {
 .body-paragraph b{
     color: #003b49;
 }
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+.container-wow h6{
+	font-family: "proxima-nova",sans-serif;
+	margin-top: 3%;
+	font-size: 1.2rem;
+	font-weight: 900;
+	color: #003b49;
+}
+.about-img img{
+	width: 100%;
+  }
+  .item-text{
+	  padding-left: 15px;
+	}
+	.about-img{
+		padding-right: 15px;
+	}
+	.item-text h4{
+		margin-bottom: 30px;
+	}
+	.single-work img{
+		width: 100%;
+	}
+	.single-work{
+		margin-bottom: 30px;
+	}
+	.portfolio-area .section-padding{
+		padding-bottom: 30px;
+	}
+	
+	@media only screen and (min-width: 768px) and (max-width: 991px) {
 	.c-item1{
 	height: 480px;
 }
